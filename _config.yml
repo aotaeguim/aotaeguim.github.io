@@ -21,7 +21,7 @@ repository               : "aotaeguim/aotaeguim.github.io "
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Álvaro Otaeguit"
   pronouns         : "Photo: Carolina Jerez Photography" # example: "she/her"
   bio              : ""
