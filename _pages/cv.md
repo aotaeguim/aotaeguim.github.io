@@ -13,8 +13,8 @@ Download
 ======
 
 Download my full CV here:                    
-<p><a href = "https://github.com/TillHovestadt/CV/raw/main/CV_AOtaegui_ES.pdf">Spanish CV (Last changed: January 2025)</a></p>
-<p><a href = "https://github.com/TillHovestadt/CV/raw/main/CV_AOtaegui_EN.pdf">English CV (Last changed: January 2025)</a></p>
+<p><a href = "https://github.com/aotaeguim/CV/raw/main/CV_AOtaegui_ES.pdf">Spanish CV (Last changed: January 2025)</a></p>
+<p><a href = "https://github.com/aotaeguim/CV/raw/main/CV_AOtaegui_EN.pdf">English CV (Last changed: January 2025)</a></p>
 
 
 Education
