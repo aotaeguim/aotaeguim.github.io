@@ -1,7 +1,7 @@
 ---
 title: "Seeing copiapósols: anthropogenic soils, strategic unknowing, and emergent taxonomies in northern Chile"
 collection: publications
-permalink: /publication/2021_otaegui
+permalink: /publication/2021_ureta_otaegui
 excerpt: ''
 date: 2020-01-03
 venue: 'Agriculture and Human Values 38(11)'
