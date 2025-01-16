@@ -13,7 +13,7 @@ Download
 ======
 
 Download my full CV here:                    
-<p><a href = "https://https://aotaeguim.github.io/files/CV_AOtaegui_EN.pdf">Spanish CV (Last changed: January 2025)</a></p>
+<!--- <p><a href = "https://https://aotaeguim.github.io/files/CV_AOtaegui_EN.pdf">Spanish CV (Last changed: January 2025)</a></p> --->
 <p><a href = "https://https://aotaeguim.github.io/files/CV_AOtaegui_EN.pdf">English CV (Last changed: January 2025)</a></p>
 
 
