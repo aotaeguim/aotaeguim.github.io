@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2024_epistemology
 venue: "Universidad del Alba, Faculty of Social Sciences and Humanities"
-date: 2024
+date: 2024--
 location: "Santiago, Chile"
 ---
 
