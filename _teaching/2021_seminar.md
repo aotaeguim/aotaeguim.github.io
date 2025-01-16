@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2024_seminar
 venue: "Universidad del Desarrollo, Faculty of Education"
-date: 2021--2022
+date: 2021-03-01
 location: "Santiago, Chile"
 ---
 
