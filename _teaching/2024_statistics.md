@@ -2,7 +2,7 @@
 title: "Introduction to Statistics"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/
+permalink: /teaching/2024_statistics
 venue: "Universidad del Alba, Faculty of Social Sciences and Humanities"
 date: 2024
 location: "Santiago, Chile"
