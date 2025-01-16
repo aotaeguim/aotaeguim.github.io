@@ -13,15 +13,15 @@ Download
 ======
 
 Download my full CV here:                    
-<p><a href = "https://github.com/aotaeguim/CV/raw/main/CV_AOtaegui_ES.pdf">Spanish CV (Last changed: January 2025)</a></p>
-<p><a href = "https://github.com/aotaeguim/CV/raw/main/CV_AOtaegui_EN.pdf">English CV (Last changed: January 2025)</a></p>
+<p><a href = "https://https://aotaeguim.github.io/files/CV_AOtaegui_EN.pdf">Spanish CV (Last changed: January 2025)</a></p>
+<p><a href = "https://https://aotaeguim.github.io/files/CV_AOtaegui_EN.pdf">English CV (Last changed: January 2025)</a></p>
 
 
 Education
 ======
 <!--- DPhil in Sociology, University of Oxford, 2024-- --->
 
-* M.A. in Public Policy (MPP), University of Chile, 2020
+* M.A. in Public Policy (MPP), University of Chile, 2022
 * M.A. in Sociology, Alberto Hurtado University, 2020
 * B.A. in Sociology, Alberto Hurtado University, 2016
 
@@ -36,7 +36,7 @@ Work experience
 * 2021--2022: Research Manager
   
   * JPAL-LAC
-  * Principal Investigator: [Claudia Martinez](https://sites.google.com/site/clpmartineza/)
+  * Principal Investigator: Claudia Martinez
   
 * 2015--2021: Research Assistant
 
