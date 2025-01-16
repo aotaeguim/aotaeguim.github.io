@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020_assistant
 venue: "Alberto Hurtado University, Department of Sociology"
-date: 2014--2019
+date: 2014-06-01
 location: "Santiago, Chile"
 ---
 
