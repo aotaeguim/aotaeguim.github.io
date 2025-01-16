@@ -12,7 +12,7 @@ title                    : "Álvaro Otaegui"
 title_separator          : "-"
 name                     : &name "Álvaro Otaegui"
 description              : &description ""
-#url                      : https://aotaeguim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aotaeguim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aotaeguim/aotaeguim.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : ""
   location         : "Santiago, CHL"
   employer         : "Unesco Santiago, Chile"
-  uri              : ""
+  #uri              : ""
   email            : "alvaro.otaegui[at]gmail.com"
 
   # Academic websites
