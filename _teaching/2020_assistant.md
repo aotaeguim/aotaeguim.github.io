@@ -2,7 +2,7 @@
 title: ""
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/
+permalink: /teaching/2020_assistant
 venue: "Alberto Hurtado University, Department of Sociology"
 date: 2020-11-01
 location: "Santiago, Cgile"
