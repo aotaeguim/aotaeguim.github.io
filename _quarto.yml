@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Álvaro Otaegui"
+  navbar:
+    search: false
+    #left
+    right:
+      - href: index.qmd
+        text: About
+      - cv.qmd
+      - research.qmd
+      - teaching.qmd
+      - blog.qmd
+    sidebar:
+      search: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+
+
