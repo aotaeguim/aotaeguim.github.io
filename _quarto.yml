@@ -17,6 +17,9 @@ website:
     sidebar:
       search: false
 
+resources:
+  - CNAME
+
 format:
   html:
     theme: cosmo
