@@ -1,0 +1,14 @@
+---
+title: "Rol de la educación de los padres en la variación de los niveles mínimos de competencias en LAC"
+author: "Álvaro Otaegui"
+date: "21/01/2025"
+categories:
+    - research-notes
+---
+
+La relación entre la educación de los padres y los resultados académicos de los hijos es fundamental para el monitoreo de la equidad en la sociedad. Idealmente, se espera que todos los estudiantes tengan iguales oportunidades de aprendizaje, sin importar su origen social. Sin embargo, en América Latina y el Caribe, la realidad es distinta. Aunque la expansión de la educación superior en la región ha sido significativa en las últimas décadas, los resultados de aprendizaje en primaria se han estancado entre 2013 y 2019 (UNESCO Office Santiago and Regional Bureau for Education in Latin America and the Caribbean y Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación 2021).
+
+El Estudio Regional Comparativo y Explicativo (ERCE) 2019, que evalúa a estudiantes de tercer y sexto grado en áreas de lenguaje, matemáticas y ciencias (solo en sexto), muestra que la región ha experimentado mejoras mínimas y mantiene brechas significativas en estas áreas. El ERCE mide el Nivel Mínimo de Competencia (MPL), definido por el Instituto de Estadística de la UNESCO para monitorear los indicadores del ODS4 UNESCO Institute of Statistics (2020).
+En tercer grado, solo el 51% de los estudiantes alcanza niveles mínimos de competencia en matemáticas y el 54% en lenguaje. En sexto grado, estos porcentajes son aún menores, con un 17% en matemáticas y un 31% en lenguaje. Además, hay diferencias de género significativas; por ejemplo, las estudiantes mujeres superan más el MPL en lectura comparado con los hombres, mientras que los hombres tienen mayor probabilidad de alcanzar el MPL en matemáticas (UNESCO Office Santiago and Regional Bureau for Education in Latin America and the Caribbean y Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación 2021).
+
+Las ciencias sociales han explorado cómo el contexto social influye en el logro educativo, pero existe una falta de estudios sobre cómo varían los niveles mínimos de competencia según el nivel educativo de los padres en los países de la región. Este artículo busca llenar este vacío respondiendo a la pregunta: ¿Cuál es el efecto del nivel educativo alcanzado por los padres en el logro de los niveles mínimos de competencia en el aprendizaje en primaria?
