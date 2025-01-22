@@ -4,8 +4,9 @@ project:
 
 website:
   title: "Álvaro Otaegui"
+  search: false
   navbar:
-    search: false
+    #search: false
     #left
     right:
       - href: index.qmd
