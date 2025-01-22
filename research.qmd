@@ -1,0 +1,54 @@
+---
+title: "Research"
+---
+
+<!-- PAPERS -->
+
+### Selected Refereed Publications
+::: {.grid}
+::: {.g-col-2}
+2024
+:::
+::: {.g-col-10}
+Ureta, S., **Otaegui, A**., & Llona, M. [El sirsd-s o los riesgos de una problematización productivista de los suelos degradados.](https://revistanortegrande.uc.cl/index.php/RGNG/article/view/59711/63064) *Revista de Geografía Norte Grande*, 88, 1–23. 
+:::
+
+::: {.g-col-2}
+2021
+:::
+::: {.g-col-10}
+Ureta, S., & **Otaegui, A**. [Seeing copiapósols: Anthropogenic soils, strategic unknowing, and
+emergent taxonomies in northern chile](https://doi.org/10.1007/s10460-021-10191-4). *Agriculture and Human Values*, 38, 881–892.
+:::
+:::
+
+<!-- BOOKS -->
+
+### Book Chapters
+::: {.grid}
+::: {.g-col-2}
+2023
+:::
+::: {.g-col-10}
+Fraser, P., Fuentealba, F., Gatica, F., **Otaegui, A**., & Henríquez, C. Can teaching overcome socioeconomic inequality in latin america? In A. Wiseman (Ed.), *Annual review of comparative and international education*. Emerald Publishing Limited. 
+:::
+
+::: {.g-col-2}
+2021
+:::
+::: {.g-col-10}
+Pelfini, A., Ilabaca, T., & **Otaegui, A**. Distintos pero homogéneos: La construcción social de la élite empresarial chilena. In A. Pelfini (Ed.), *¿Son o se hacen?* (pp. 399–408). Ediciones Universidad Alberto Hurtado
+:::
+:::
+
+<!-- POLICY REPORTS -->
+
+### Policy Reports
+::: {.grid}
+::: {.g-col-2}
+2021
+:::
+::: {.g-col-10}
+Gatica, F., Valenzuela, P., & **Otaegui, A**. Evaluación formativa: Una oportunidad para transformar la educación en tiempos de pandemia. [*Policy Report commissioned by UNESCO Santiago*](https://unesdoc.unesco.org/ark:/48223/pf0000378045)
+:::
+:::
