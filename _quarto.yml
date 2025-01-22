@@ -14,8 +14,8 @@ website:
       - research.qmd
       - teaching.qmd
       - blog.qmd
-    sidebar:
-      search: false
+    #sidebar:
+      #search: false
 
 resources:
   - CNAME
