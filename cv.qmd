@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-Download my full CV in PDF [here](https://aotaeguim.github.io/_files/CV_AOtaegui_EN.pdf).                    
+Download my full CV in PDF [here](/files/CV_AOtaegui_EN.pdf).                    
 
 
 #### Education
