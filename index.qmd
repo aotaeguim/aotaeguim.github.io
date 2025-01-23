@@ -19,7 +19,7 @@ about:
 ---
 ### About Me
 
-I am a Data Analysis and Project Manager at [Latin-American Laboratory for Assessment of the Quality of Education](https://www.unesco.org/es/fieldoffice/santiago/expertise/llece) (LLECE) at the [UNESCO Santiago](https://www.unesco.org/es/fieldoffice/santiago). I received a M.A. and a B.A. in Sociology from Alberto Hurtado University and I hold a MPP from the University of Chile. A copy of my CV can be found [here](/files/CV_AOtaegui_EN.pdf).
+I am a Data Analysis and Project Manager at [Latin-American Laboratory for Assessment of the Quality of Education](https://www.unesco.org/es/fieldoffice/santiago/expertise/llece) (LLECE) at the [UNESCO Santiago](https://www.unesco.org/es/fieldoffice/santiago). I received a M.A. and a B.A. in Sociology from Alberto Hurtado University and I hold a MPP from the University of Chile. Previously, I worked at JPAL - LAC as Research Manager. Additionally, I have collaborated as a research assistant in several research projects. 
 
 My research centers around inequalities with respect to socioeconomic status and social class. <!---In my research, I have investigated the segregation of social classes and how it affects interclass trust, cooperation and perceptions of inequalities. ---> I am also interested in the role of the knowledge and sciences in the social life. 
 
