@@ -6,17 +6,18 @@ website:
   title: "Álvaro Otaegui"
   #search: false
   navbar:
-    search: false
+    #search: false
     #left
     right:
+      search: false
       - href: index.qmd
         text: About
       - cv.qmd
       - research.qmd
       - teaching.qmd
       - blog.qmd
-  sidebar:
-    search: false
+  #sidebar:
+    #search: false
 
 resources:
   - CNAME
