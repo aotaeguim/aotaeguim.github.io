@@ -4,9 +4,9 @@ project:
 
 website:
   title: "Álvaro Otaegui"
-  search: false
+  #search: false
   navbar:
-    #search: false
+    search: false
     #left
     right:
       - href: index.qmd
@@ -15,8 +15,8 @@ website:
       - research.qmd
       - teaching.qmd
       - blog.qmd
-    #sidebar:
-      #search: false
+  sidebar:
+    search: false
 
 resources:
   - CNAME
