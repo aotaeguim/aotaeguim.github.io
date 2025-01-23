@@ -6,10 +6,11 @@ website:
   title: "Álvaro Otaegui"
   #search: false
   navbar:
-    #search: false
+    tools:
+      search: false
     #left
     right:
-      search: false
+      #search: false
       - href: index.qmd
         text: About
       - cv.qmd
