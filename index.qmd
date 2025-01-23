@@ -3,7 +3,7 @@ title: "Álvaro Otaegui"
 about:
   template: trestles #trestles #solana #jolla
   image: /images/profile.png
-  image-shape: round
+  image-shape: rectangle
   #image-width: 20em
   #image-alt: "Photo: Carolina Jerez Photography"
   links:
