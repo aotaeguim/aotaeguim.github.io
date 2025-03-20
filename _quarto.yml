@@ -4,10 +4,9 @@ project:
 
 website:
   title: "Álvaro Otaegui"
-  #search: false
+  search: false
   navbar:
-    tools:
-      search: false
+    search: false
     #left
     right:
       #search: false
