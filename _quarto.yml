@@ -5,17 +5,17 @@ project:
 website:
   title: "Álvaro Otaegui"
   search: false
-  navbar: false
-    #search: false
+  navbar:
+    search: false
     #left
-    #right:
+    right:
       #search: false
-      #- href: index.qmd
-        #text: About
-      #- cv.qmd
-      #- research.qmd
-      #- teaching.qmd
-      #- blog.qmd
+      - href: index.qmd
+        text: About
+      - cv.qmd
+      - research.qmd
+      - teaching.qmd
+      - blog.qmd
   #sidebar:
     #search: false
 
