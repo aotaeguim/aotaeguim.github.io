@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Álvaro Otaegui"
+  description: "Personal website"
+  navbar:
+    right:
+      - href: index.qmd
+
+resources:
+  - CNAME
+
+format:
+  html:
+    theme: minimal
+    css: assets/css/style.scss
+    toc: false
+    page-layout: custom
+
+
+
