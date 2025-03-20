@@ -1,0 +1,104 @@
+@import "{{ site.theme }}";
+
+/* Two-column layout */
+.quarto-title-block .quarto-title-banner {
+  background-color: #fff;
+  padding: 2em;
+}
+
+.sidebar-title {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+
+#quarto-sidebar {
+  width: 270px;
+  position: fixed;
+  -webkit-font-smoothing: subpixel-antialiased;
+  background-color: #fff;
+  padding: 50px 0;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.sidebar-item-container img {
+  max-width: 80%;
+  margin: 0 auto 20px auto;
+  display: block;
+  border-radius: 5px;
+}
+
+.sidebar-item-container .sidebar-item-text {
+  color: #727272;
+}
+
+.sidebar-item-container a {
+  color: #A51C30;
+  text-decoration: none;
+}
+
+.sidebar-item-container a:hover, .sidebar-item-container a:focus {
+  color: #A51C30;
+  font-weight: bold;
+}
+
+.quarto-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+main {
+  width: 500px;
+  float: right;
+  padding-bottom: 50px;
+  margin-left: 300px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222;
+  margin: 0 0 20px;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  color: #393939;
+}
+
+h3, h4, h5, h6 {
+  color: #494949;
+}
+
+/* Responsive design */
+@media print, screen and (max-width: 960px) {
+  #quarto-sidebar, main {
+    float: none;
+    position: static;
+    width: auto;
+  }
+  
+  main {
+    margin-left: 0;
+    border: 1px solid #e5e5e5;
+    border-width: 1px 0;
+    padding: 20px 0;
+    margin: 0 0 20px;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap: break-word;
+  }
+  
+  pre, code {
+    word-wrap: normal;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding: 15px;
+  }
+}
