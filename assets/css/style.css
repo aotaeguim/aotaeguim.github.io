@@ -340,3 +340,18 @@ header img.profile-image {
   }
 }
 
+@media screen and (max-width: 960px) {
+  header {
+    position: static !important; /* Quita posición fija en móviles */
+    float: none;
+    width: 100%;
+    margin-bottom: 30px; /* Añade espacio después del header */
+  }
+  
+  section {
+    width: 100%;
+    float: none;
+    margin-left: 0; /* Elimina el margen que existía para dejar espacio al header */
+    clear: both; /* Asegura que section esté debajo del header */
+  }
+}
