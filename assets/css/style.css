@@ -340,7 +340,7 @@ header img.profile-image {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 991px) {
   .wrapper {
     display: flex;
     flex-direction: column;
