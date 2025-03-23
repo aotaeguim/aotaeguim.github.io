@@ -1,19 +1,17 @@
 ---
-title: "Welcome to My Personal Website"
-page-layout: custom
+title: "Álvaro Otaegui"
+image: "/assets/images/profile.png"
+cv-link: ""
+github: "https://github.com/aotaeguim"
+linkedin: "https://cl.linkedin.com/in/alvaro-otaegui-morales"
+toc: false
+navbar: false
 ---
 
-### About Me
+### Welcome to my website
+I am a Data Analyst and Project Manager at the [Latin-American Laboratory for Assessment of the Quality of Education](https://www.unesco.org/es/fieldoffice/santiago/expertise/llece) (LLECE) at [UNESCO Santiago](https://www.unesco.org/es/fieldoffice/santiago). My research interests focus on inequalities related to socioeconomic status and social class, as well as the role of knowledge and sciences in social life.
 
-I am a Data Analysis and Project Manager at [Latin-American Laboratory for Assessment of the Quality of Education](https://www.unesco.org/es/fieldoffice/santiago/expertise/llece) (LLECE) at the [UNESCO Santiago](https://www.unesco.org/es/fieldoffice/santiago). I received a M.A. and a B.A. in Sociology from Alberto Hurtado University and I hold a MPP from the University of Chile. Prior to UNESCO, I worked at JPAL-LAC as Research Manager. Additionally, I have collaborated as a research assistant in several research projects. 
-
-My research centers around inequalities with respect to socioeconomic status and social class. <!---In my research, I have investigated the segregation of social classes and how it affects interclass trust, cooperation and perceptions of inequalities. ---> I am also interested in the role of the knowledge and sciences in the social life. 
-
+Previously, I served as Research Manager at [JPAL-LAC](https://www.povertyactionlab.org/es/latinoam%C3%A9rica-caribe) and have collaborated as a research assistant on various research projects. I hold a [Master in Public Policy](https://www.postgradofen.uchile.cl/magíster-en-políticas-públicas-escuela-de-postgrado-facultad-de-economía-y-negocios-universidad-de-chile) from the University of Chile and both a Master's and Bachelor's degree in [Sociology](https://csociales.uahurtado.cl/departamentos/departamento-de-sociologia/) from Alberto Hurtado University.
 ---
+### Publications
 
-#### Contact Information
-[alvaro.otaegui@gmail.com](mailto:alvaro.otaegui@gmail.com) \
-Latin-American Laboratory for Assessment of the Quality of Education\
-UNESCO Santiago \
-Enrique del Piano 2058, Providencia \
-Santiago, Chile \
