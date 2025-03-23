@@ -341,17 +341,24 @@ header img.profile-image {
 }
 
 @media screen and (max-width: 960px) {
+  body {
+    padding-top: 300px; /* Ajusta este valor según la altura de tu header */
+  }
+  
   header {
-    position: static !important; /* Quita posición fija en móviles */
-    float: none;
     width: 100%;
-    margin-bottom: 30px; /* Añade espacio después del header */
+    position: absolute !important; /* Cambia a absolute en lugar de fixed */
+    top: 0;
+    left: 0;
+    background: white; /* Asegura que tenga fondo */
+    z-index: 1000; /* Mantiene al frente */
+    padding: 20px;
+    box-sizing: border-box;
   }
   
   section {
     width: 100%;
     float: none;
-    margin-left: 0; /* Elimina el margen que existía para dejar espacio al header */
-    clear: both; /* Asegura que section esté debajo del header */
+    margin-left: 0;
   }
 }
