@@ -340,3 +340,28 @@ header img.profile-image {
     color: #444;
   }
 }
+
+@media screen and (max-width: 960px) {
+  .wrapper {
+    display: flex;
+    flex-direction: column; /* Organiza todo en una columna */
+  }
+  
+  header {
+    position: static !important;
+    order: 1; /* Coloca el header primero */
+    width: 100%;
+  }
+  
+  section {
+    order: 2; /* Coloca la sección después */
+    width: 100%;
+    margin-left: 0;
+  }
+  
+  footer {
+    order: 3; /* Coloca el footer al final */
+    position: static !important;
+    width: 100%;
+  }
+}
