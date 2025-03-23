@@ -76,7 +76,7 @@ a:hover small {
 
 header {
   width: 270px;
-  float: left;
+  float: none;
   position: fixed !important;
   top: 50px;
   left: auto;
@@ -87,7 +87,7 @@ header {
 
 section {
   width: 500px;
-  float: right;
+  float: none;
   padding-bottom: 50px;
   margin-left: 300px;
   margin-top: 26px;
@@ -95,7 +95,7 @@ section {
 
 footer {
   width: 270px;
-  float: left;
+  float: none;
   position: fixed;
   bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased;
@@ -183,7 +183,7 @@ ul.downloads {
 
 .downloads li {
   width: 89px;
-  float: left;
+  float: none;
   border-right: 1px solid #e0e0e0;
   height: 40px;
 }
