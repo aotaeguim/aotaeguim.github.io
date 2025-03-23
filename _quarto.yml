@@ -5,19 +5,36 @@ project:
 website:
   title: "Álvaro Otaegui"
   description: "Personal website"
+  search: false
   navbar:
-    right:
+      left:
       - href: index.qmd
-
-resources:
-  - CNAME
 
 format:
   html:
-    theme: minimal
-    css: assets/css/style.scss
+    template: _templates/minimal.html
+    theme: cosmo
+    css: assets/css/style.css
     toc: false
-    page-layout: custom
 
+    include-after-body:
+      - text: |
+          <script>
+          document.addEventListener('DOMContentLoaded', function() {
+            const header = document.querySelector('header');
+            const title = header.querySelector('h1');
+            const profile = document.querySelector('.sidebar-profile');
+            
+            if (title && profile) {
+              // Crear un espaciador
+              const spacer = document.createElement('div');
+              spacer.style.height = '15px';  // Ajusta este valor según necesites
+              
+              // Insertar primero el espaciador y luego la imagen
+              title.insertAdjacentElement('afterend', spacer);
+              spacer.insertAdjacentElement('afterend', profile);
+            }
+          });
+          </script>
 
 
