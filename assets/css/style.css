@@ -340,25 +340,28 @@ header img.profile-image {
   }
 }
 
+/* Opción 3: Diseño de una columna para móviles */
 @media screen and (max-width: 960px) {
-  body {
-    padding-top: 300px; /* Ajusta este valor según la altura de tu header */
+  .wrapper {
+    display: flex;
+    flex-direction: column; /* Organiza todo en una columna */
   }
   
   header {
+    position: static !important;
+    order: 1; /* Coloca el header primero */
     width: 100%;
-    position: absolute !important; /* Cambia a absolute en lugar de fixed */
-    top: 0;
-    left: 0;
-    background: white; /* Asegura que tenga fondo */
-    z-index: 1000; /* Mantiene al frente */
-    padding: 20px;
-    box-sizing: border-box;
   }
   
   section {
+    order: 2; /* Coloca la sección después */
     width: 100%;
-    float: none;
     margin-left: 0;
+  }
+  
+  footer {
+    order: 3; /* Coloca el footer al final */
+    position: static !important;
+    width: 100%;
   }
 }
