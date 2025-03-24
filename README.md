@@ -7,3 +7,19 @@ Previously, I served as Research Manager at [JPAL-LAC](https://www.povertyaction
 ---
 
 ### Publications
+
+#### Publications in Peer-Reviewed Journals
+
+Ureta, S., Otaegui, A., & Llona, M. (2024). "El sirsd-s o los riesgos de una problematización productivista de los suelos degradados". _Revista de Geografía Norte Grande_, 88, 1–23. [link](https://revistanortegrande.uc.cl/index.php/RGNG/article/view/59711/63064)
+
+Ureta, S., & Otaegui, A. (2021). "Seeing copiapósols: Anthropogenic soils, strategic unknowing, and emergent taxonomies in northern chile". _Agriculture and Human Values_, 38, 881–892. [link](https://doi.org/10.1007/s10460-021-10191-4)
+
+#### Book Chapters
+
+Fraser, P., Fuentealba, F., Gatica, F., Henríquez, C., & Otaegui, A. (2023). Can teaching overcome socioeconomic inequality in latin america? In A. Wiseman (Ed.), Annual review of comparative and international education. Emerald Publishing Limited. [link](https://bookstore.emerald.com/annualreview-of-comparative-and-international-education-2022.html)
+
+Pelfini, A., Ilabaca, T., & Otaegui, A. (2021). Distintos pero homogéneos: La construcción social de la élite empresarial chilena. In A. Pelfini (Ed.), ¿Son o se hacen? (pp. 399–408). Ediciones Universidad Alberto Hurtado. [link](https://osf.io/kuqqx/)
+
+#### Policy report
+
+Gatica, F., Valenzuela, P., & Otaegui, A. (2021). "Evaluación formativa: Una oportunidad para transformar la educación en tiempos de pandemia". _Policy Report commissioned by UNESCO Santiago_. [link](https://unesdoc.unesco.org/ark:/48223/pf0000378045)
