@@ -16,9 +16,9 @@ Ureta, S., & Otaegui, A. (2021). "Seeing copiapósols: Anthropogenic soils, stra
 
 #### Book Chapters
 
-Fraser, P., Fuentealba, F., Gatica, F., Henríquez, C., & Otaegui, A. (2023). Can teaching overcome socioeconomic inequality in latin america? In A. Wiseman (Ed.), Annual review of comparative and international education. Emerald Publishing Limited. [link](https://bookstore.emerald.com/annualreview-of-comparative-and-international-education-2022.html)
+Fraser, P., Fuentealba, F., Gatica, F., Henríquez, C., & Otaegui, A. (2023). Can teaching overcome socioeconomic inequality in latin america? In A. Wiseman (Ed.), Annual review of comparative and international education. Emerald Publishing Limited. [link](https://www.researchgate.net/publication/386175851_Can_Teaching_Overcome_Socioeconomic_Inequality_in_Latin_America_A_Trend_Analysis_Using_Erce_Data)
 
-Pelfini, A., Ilabaca, T., & Otaegui, A. (2021). Distintos pero homogéneos: La construcción social de la élite empresarial chilena. In A. Pelfini (Ed.), ¿Son o se hacen? (pp. 399–408). Ediciones Universidad Alberto Hurtado. [link](https://osf.io/kuqqx/)
+Pelfini, A., Ilabaca, T., & Otaegui, A. (2021). Distintos pero homogéneos: La construcción social de la élite empresarial chilena. In A. Pelfini (Ed.), ¿Son o se hacen? (pp. 399–408). Ediciones Universidad Alberto Hurtado. [link]([https://osf.io/kuqqx/](https://ediciones.uahurtado.cl/wp-content/uploads/woocommerce_uploads/Son-o-se-hacen-pp-mx2gzz.pdf))
 
 #### Policy report
 
